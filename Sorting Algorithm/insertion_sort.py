@@ -18,4 +18,3 @@ if __name__ == "__main__":
         print(num, end=" ")
     print()
     insertion_sort(arr)
-
